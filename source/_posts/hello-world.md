@@ -36,4 +36,5 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
-what ever
+whatever
+who's your dad
